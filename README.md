@@ -7,7 +7,7 @@ This repository contains the code and data for the PENGUIN model, a machine lear
 - Model training and evaluation scripts
 - Jupyter notebooks for exploratory data analysis
 - Pre-trained model files
-- Detailed codes
+- Detailed codes.
 
 # 1. Know the data
 # Importing libraries
