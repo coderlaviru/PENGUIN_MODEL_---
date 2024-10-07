@@ -411,7 +411,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![png](images/output_19_0.png)
     
 
 
@@ -425,7 +425,7 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![png](images/output_20_0.png)
     
 
 
@@ -438,7 +438,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](images/output_21_0.png)
     
 
 
@@ -757,7 +757,7 @@ plt.show()
 
 
     
-![png](output_34_0.png)
+![png](images/output_34_0.png)
     
 
 
@@ -792,7 +792,7 @@ plt.show()
 
 
     
-![png](output_37_0.png)
+![png](images/output_37_0.png)
     
 
 
@@ -828,7 +828,7 @@ plt.show()
 
 
     
-![png](output_40_0.png)
+![png](images/output_40_0.png)
     
 
 
@@ -861,7 +861,7 @@ plt.show()
 
 
     
-![png](output_43_0.png)
+![png](images/output_43_0.png)
     
 
 
@@ -896,7 +896,7 @@ plt.show()
 
 
     
-![png](output_46_0.png)
+![png](images/output_46_0.png)
     
 
 
@@ -920,7 +920,7 @@ plt.show()
 
 
     
-![png](output_48_0.png)
+![png](images/output_48_0.png)
     
 
 
@@ -1088,7 +1088,7 @@ lr_score= evaluate_model(lr_model,x_train,x_test,y_train,y_test)
 
 
     
-![png](output_63_1.png)
+![png](images/output_63_1.png)
     
 
 
@@ -1219,7 +1219,7 @@ lr_score2 = evaluate_model(lr_model2, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_68_1.png)
+![png](images/output_68_1.png)
     
 
 
@@ -1331,7 +1331,7 @@ dt_score = evaluate_model(dt_model, x_train, x_test, y_train, y_test)
 
 
     
-![png](output_73_1.png)
+![png](images/output_73_1.png)
     
 
 
@@ -1481,7 +1481,7 @@ score
 
 
     
-![png](output_77_1.png)
+![png](images/output_77_1.png)
     
 
 
@@ -1610,7 +1610,7 @@ score
 
 
     
-![png](output_81_1.png)
+![png](images/output_81_1.png)
     
 
 
@@ -1768,7 +1768,7 @@ score
 
 
     
-![png](output_83_1.png)
+![png](images/output_83_1.png)
     
 
 
@@ -1914,7 +1914,7 @@ score
 
 
     
-![png](output_87_1.png)
+![png](images/output_87_1.png)
     
 
 
@@ -1941,22 +1941,6 @@ score
     
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2083,7 +2067,7 @@ score
 
 
     
-![png](output_91_1.png)
+![png](images/output_91_1.png)
     
 
 
@@ -2268,7 +2252,7 @@ score
 
 
     
-![png](output_93_1.png)
+![png](images/output_93_1.png)
     
 
 
@@ -2436,7 +2420,7 @@ score
 
 
     
-![png](output_95_1.png)
+![png](images/output_95_1.png)
     
 
 
@@ -2631,7 +2615,7 @@ score
 
 
     
-![png](output_97_1.png)
+![png](images/output_97_1.png)
     
 
 
@@ -2822,7 +2806,7 @@ score
 
 
     
-![png](output_101_1.png)
+![png](images/output_101_1.png)
     
 
 
@@ -3037,7 +3021,7 @@ score
 
 
     
-![png](output_103_1.png)
+![png](images/output_103_1.png)
     
 
 
@@ -3445,10 +3429,5 @@ with open('penguin_model.pkl', 'wb') as file:
     pickle.dump(rf_model, file)  # Save the trained model to a file
 
 # Once you run the cell with this code, 'penguin_model.pkl' will be created in your folder
-
-```
-
-
-```python
 
 ```
